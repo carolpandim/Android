@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "526091583867",
+    "firebase_url": "https://mbaas-e5fae.firebaseio.com",
+    "project_id": "mbaas-e5fae",
+    "storage_bucket": "mbaas-e5fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526091583867:android:1dd4d672f91e5d57",
+        "android_client_info": {
+          "package_name": "br.com.carolpandim.mbaas_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526091583867-2k0u347ov4pfrb4ljbkg7utk52kpk2uj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.carolpandim.mbaas_app",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "526091583867-0369ebil0k07eo5mhul3msq8lpbmnh2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt-sU6O2NEHDzRjNaaYL6Vd0SrEKNjO-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526091583867-0369ebil0k07eo5mhul3msq8lpbmnh2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
